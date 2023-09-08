@@ -8,10 +8,10 @@
 <br><br>
 </p>
 
-### Running
+## Running
 
 - Jangan lupa install [PHP](https://www.php.net).
-- Import database [registrasi-wri.sql](kode/database/regist.rasi-wri.sql) pada folder database ke database Anda.
+- Import database [registrasi-wri.sql](kode/database/registrasi-wri.sql) pada folder database ke database Anda.
 - Dashboard, buka -> [index.html](kode//dashboard/index.html).
 - Admin, menjalankan perintah -> `php -S 127.0.0.1:8000` di folder [admin](kode/admin). <br> Username: admin, Password: admin.
 
