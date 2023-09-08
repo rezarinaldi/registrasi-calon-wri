@@ -4,7 +4,7 @@
 <br><br>
 <p align="left">
   <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-<p>Webstite pendaftaran calon anggota Workshop Riset Informatika (WRI) di Polinema.</p>
+<p>Website pendaftaran calon anggota Workshop Riset Informatika (WRI) di Polinema.</p>
 <br><br>
 </p>
 
